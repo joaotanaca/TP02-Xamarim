@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iKYhsaYUU8OvJOeSZKtinYQJ0yZYbEltBtKgEpuNlAlQd/dtgQg1O3oOO0YUhYfJcqJBMJBLyVUDxtG/KkzjkA==",
+  "success": true,
+  "projectFilePath": "/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic.iOS/XF.MVVMBasic.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/imac/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/imac/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

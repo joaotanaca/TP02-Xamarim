@@ -1,0 +1,30 @@
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/bin/Debug/netstandard2.0/XF.MVVMBasic.deps.json
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/bin/Debug/netstandard2.0/XF.MVVMBasic.dll
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/bin/Debug/netstandard2.0/ref/XF.MVVMBasic.dll
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/bin/Debug/netstandard2.0/XF.MVVMBasic.pdb
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.csprojAssemblyReference.cache
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/View/AlunoViewPage.xaml.g.cs
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.AssemblyInfoInputs.cache
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.AssemblyInfo.cs
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.csproj.CoreCompileInputs.cache
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.dll
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/ref/XF.MVVMBasic.dll
+C:/Users/Kim Ochii/source/repos/XF.MVVMBasic/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.pdb
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/bin/Debug/netstandard2.0/XF.MVVMBasic.deps.json
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/bin/Debug/netstandard2.0/XF.MVVMBasic.dll
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/bin/Debug/netstandard2.0/ref/XF.MVVMBasic.dll
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/bin/Debug/netstandard2.0/XF.MVVMBasic.pdb
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.csprojAssemblyReference.cache
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/View/AlunoViewPage.xaml.g.cs
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.AssemblyInfoInputs.cache
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.AssemblyInfo.cs
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.csproj.CoreCompileInputs.cache
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.dll
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/ref/XF.MVVMBasic.dll
+/Users/imac/Downloads/Xamarin-TP-02-master/XF.MVVMBasic/XF.MVVMBasic/obj/Debug/netstandard2.0/XF.MVVMBasic.pdb
