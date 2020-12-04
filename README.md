@@ -2,4 +2,4 @@
 ## Feito por João Pedro Tanaca Ramos  
 
 ### Captura de tela da aplicação
-<img src="git.mp4" width="320" height="640"> 
+<img src="gif.mp4" width="320" height="640"> 
